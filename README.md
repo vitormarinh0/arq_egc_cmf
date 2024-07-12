@@ -104,8 +104,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Seu Nome - [@vitormarinh0](https://twitter.com/vit0rmarinh0) - vitormarinho@cedeplar.ufmg.br
-
-Link do Projeto: [https://github.com/seu_usuario/seu_projeto](https://github.com/seu_usuario/seu_projeto)
+Vitor Marinho - [@vitormarinh0](https://twitter.com/vit0rmarinh0) - vitormarinho@cedeplar.ufmg.br
 
 ---
